@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head><title>{{post.title}}</title></head>
+<body>
+  <h1>{{post.title}}</h1>
+  <p><strong>Автор:</strong> {{ post.author.name }}</p>
+  <p><strong>Дата публикации:</strong> {{post.published_date}}</p>
+
+  {% if content %}
+    <div>{{content.content_text | safe}}</div>
+  {% else %}
+    <p>Статья в процессе добаления...</p>
+  {% endif %}
+  <p><a>Следующая статья</a></p>
+  <hr>
+<p><strong><a href="{% url 'all_posts' %}">Следующая статья</a></strong></p>
+</body>
+</html>

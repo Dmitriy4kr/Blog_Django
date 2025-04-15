@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="sdkName" value="Python 3.12 (hw_21)" />
+=======
+    <option name="sdkName" value="Python 3.12 (hw_22)" />
+>>>>>>> d5e4783 (django blog)
+=======
+    <option name="sdkName" value="Python 3.12 (hw_21)" />
+>>>>>>> ca86991395ccb111e39605e040e67ce51dc4f9ff
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12" project-jdk-type="Python SDK" />
+</project>

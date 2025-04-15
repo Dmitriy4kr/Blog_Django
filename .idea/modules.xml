@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/hw_21.iml" filepath="$PROJECT_DIR$/.idea/hw_21.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/hw_22.iml" filepath="$PROJECT_DIR$/.idea/hw_22.iml" />
+>>>>>>> d5e4783 (django blog)
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/hw_21.iml" filepath="$PROJECT_DIR$/.idea/hw_21.iml" />
+>>>>>>> ca86991395ccb111e39605e040e67ce51dc4f9ff
+    </modules>
+  </component>
+</project>
